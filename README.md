@@ -1,4 +1,5 @@
 # 📄 AI Resume Analyzer
+🔗 **Live demo:** https://ai-resume-analyzer-gmueg52ew3zzwv8ye95lmk.streamlit.app/
 
 A Streamlit web app that compares a resume (PDF/DOCX) with a job description and returns an AI-powered match analysis: score, matching/missing skills, experience and education fit, ATS tips, learning topics, truthful rewrite suggestions, and a downloadable PDF/TXT report.
 
